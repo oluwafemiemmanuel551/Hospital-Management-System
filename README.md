@@ -3,13 +3,13 @@ A comprehensive system for managing hospital operations and patient records.
 
 ##  Hospital Performance & Readmission Analytics Dashboards
 ### 1. Overview Dashboard
-![PBI1](./P%20B%20I%201.png)>
+![HSM 1](./HSM%201.png)>
 
 ### 2. Readmission Analysis 
-![PBI2](./P%20B%20I%202.png)>
+![HSM 2](./HSM%202.png)>
 
 ### 3. Cost and Outcome Analysis 
-![PBI3](./P%20B%20I%203.png)>
+![HSM 3](./HSM%203.png)>
 
 ---
 
