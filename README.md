@@ -3,7 +3,7 @@ A comprehensive system for managing hospital operations and patient records.
 
 ##  Hospital Performance & Readmission Analytics Dashboards
 ### 1. Overview Dashboard
-![HSM 1](./HSM%201.png)>
+![HSM 1 (1)](./HSM%201%20(1).png)>
 
 ### 2. Readmission Analysis 
 ![HSM 2](./HSM%202.png)>
