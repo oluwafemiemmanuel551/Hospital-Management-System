@@ -1,8 +1,12 @@
 # Hospital-Management-System
 A comprehensive system for managing hospital operations and patient records.
 
-#  Hospital Performance & Readmission Analytics Dashboard
+##  Hospital Performance & Readmission Analytics Dashboard
+### 1. Overview Dashboard
 
+### 2. Readmission Analysis Dashboard
+
+### 3. Cost and Outcome Analysis Dashboard
 
 ---
 
@@ -322,9 +326,12 @@ By focusing interventions on the **patients, departments, and periods identified
 
 ---
 
-##  About the Analyst
+##  Author
 
-**Data Analyst | SQL | Power BI | Excel | Python**
+**Oluwafemi Amodu**  
+Data Analyst | Business Intelligence  
+[LinkedIn](https://linkedin.com/in/oluwafemitheanalyst0) · [Portfolio](https://Oluwafemiemmanuel551.github.io) · [Email](https://mail.google.com/mail/u/0/#inbox)
+· [Chat on Whatsapp](https://wa.me/+2349022131055)
 
 Passionate about transforming raw data into actionable insights, building interactive dashboards, identifying business problems, and supporting data-driven decision-making.
 
