@@ -338,5 +338,3 @@ Data Analyst | Business Intelligence
 
 Passionate about transforming raw data into actionable insights, building interactive dashboards, identifying business problems, and supporting data-driven decision-making.
 
-
-Feel free to **star ⭐ the repository** and explore the analysis.
